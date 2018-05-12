@@ -1,0 +1,30 @@
+_repo: '----_26886'
+_version: 0.1.0
+alternative_title: Liang Gong Jiu Jian
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+  editors:
+  - agent_name: An, Ping Qiu
+    gutenberg_agent_id: '32304'
+    url: http://www.gutenberg.org/2009/agents/32304
+  - agent_name: Li, Tian Yi
+    gutenberg_agent_id: '32305'
+    url: http://www.gutenberg.org/2009/agents/32305
+description: ''
+gutenberg_issued: '2008-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26886'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 梁公九諫
+url: http://www.gutenberg.org/ebooks/26886
